@@ -1,1 +1,1 @@
-alert('lol');
+document.getElementById("ez").submit();
