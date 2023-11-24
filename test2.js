@@ -1,1 +1,1 @@
-document.getElementById("ez2").submit();
+document.getElementById("ez").submit();
